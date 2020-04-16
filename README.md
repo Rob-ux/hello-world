@@ -1,5 +1,5 @@
-# hello-world
-Just another repository
+# hello GIT world
+Just another store
 
 Hello!
 I like node.js
